@@ -18,7 +18,6 @@ from botify.recommenders.indexed import Indexed
 from botify.recommenders.contextual import Contextual
 from botify.track import Catalog
 
-import numpy as np
 
 root = logging.getLogger()
 root.setLevel("INFO")
